@@ -4,7 +4,7 @@ Get perfect shadow every time for the non-designer.
 
 # Installation
 
-`npm -i shadowizard-arung`
+`npm i shadowizard-arung --save`
 
 Then...
 
