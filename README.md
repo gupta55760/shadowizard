@@ -15,6 +15,7 @@ shadowizard({
     showdow_type: 'soft',
     padding: false
 });
+```
 
 ## Options
 
